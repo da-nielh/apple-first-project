@@ -1,0 +1,99 @@
+# Apple current page
+
+Outernal wrapper - div
+    Header wrapper - header
+        header top wrapper
+        END header top wrapper
+
+        header link wrapper - nav
+        END header link wrapper
+    END header wrapper
+
+    Shop now wrapper - span
+    END Shop now wrapper
+
+    First highlight wrapper - section
+        Title wrapper - div
+        END Title wrapper
+
+        Discription wrapper - div
+        END Discription wrapper
+
+        Link wrapper - div
+            - List links and linked to a proper page
+        END Link wrapper
+
+        - Display image background
+    END First highlight wrapper
+
+    Second highlight wrapper - section
+        Title wrapper - div
+        END Title wrapper
+
+        Discription wrapper - div
+        END Discription wrapper
+
+        Link wrapper - div
+            - List links and linked to a proper page
+        END Link wrapper
+
+        - Display image background
+    END Second highlight wrapper
+
+    Third highlight wrapper - section
+        Top logo wrapper - div
+        END Top logo wrapper
+
+        Discription wrapper - div
+        END Discription wrapper
+
+        Link wrapper - div
+            - List links and linked to a proper page
+        END Link wrapper
+
+        - Display image background
+    END Third highlight wrapper
+
+    Forth highlight wrapper - section
+    END Forth highlight wrapper
+
+    Fifth highlight wrapper - section
+    END Fifth highlight wrapper
+
+    Sixth highlight wrapper - section
+    END Sixth highlight wrapper
+
+    Footer wrapper - Footer
+        Upper text wrapper - div
+        END Upper text wrapper
+
+        Footer link wrapper - div
+        END Footer link wrapper
+
+        My Apple wrapper - div
+        END My Apple wrapper
+
+        Copyright wrapper -div
+            Copyright - span
+            END Copyright
+
+            Bottem link wrapper - div
+            END Bottem link wrapper
+
+            Country - span
+            END Country
+        END Copyright wrapper
+    END Footer wrapper
+END Outer wrapper
+
+
+
+
+
+
+
+- box model - talles about design and layout
+- CSS uses the box model to determine how big the boxes are and how to place them.
+
+- Border property
+    - border: size style color;
